@@ -1,7 +1,7 @@
 # Crop Disease Detection using an IoT device
 
 ## What is does -
-An image of a leaf is captured using the PICamera of a Raspberry Pi. This image is thn run through a classifier and its disease is identified. This data is sent to your android device using a cloud service (ThingSpeak). The Android app displays the leaf, it's diagnosed disease, the preventive measure needed to be taken up by the farmer and the cure for this disease. Command to click the image can be sent to the RasPi using the Android app.
+An image of a leaf is captured using the PICamera of a Raspberry Pi. This image is then run through a classifier and it's disease is identified. This data is sent to your android device using a cloud service (ThingSpeak). The Android app displays the leaf, it's diagnosed disease, the preventive measure needed to be taken up by the farmer and the cure for this disease. Command to click the image can be sent to the RasPi using the Android app.
 
 ## How it works -
 
